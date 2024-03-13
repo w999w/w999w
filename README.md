@@ -29,6 +29,9 @@
 
 <!-- [![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8) -->
 
+![snake](https://raw.githubusercontent.com/w999w/w999w/output/github-contribution-grid-snake.svg)
+
+
 [![snake](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
 [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-3d-contrib/profile-night-rainbow.svg)
 
