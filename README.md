@@ -3,13 +3,13 @@
 **visitor.**
 
 
-
 ### Hi there 👋,I'm w999w.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java.
 - 📫 How to reach me: 9385999@gmail.com
+
 
 ### 🧰 语言工具
 
@@ -35,8 +35,5 @@
 </div>
 
 </details>
-
-![](https://activity-graph.herokuapp.com/graph?username=w999w&theme=github)
-
 
 
