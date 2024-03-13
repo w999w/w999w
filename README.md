@@ -1,3 +1,9 @@
+**Welcome! the**
+![](https://count.getloli.com/get/@:w999w?theme=gelbooru)
+**visitor.**
+
+
+
 ### Hi there 👋,I'm w999w.
 
 - 🔭 I’m currently working on something cool.
