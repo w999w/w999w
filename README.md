@@ -11,6 +11,57 @@
 - 📫 How to reach me: 9385999@gmail.com
 
 
+---
+background: 4923
+animatedBackground: true
+watermark: true
+zooming: true
+highlightTheme: github-dark
+font: JetBrainsMono
+---
+
+<!--
+  ☝️ The section at the top contains settings for the snippet.
+  You can change them either manually, or with the selectors
+  above the video preview.
+-->
+
+<!-- A snippet is a plain Markdown file! -->
+
+<!--
+  Each step of the animation is a code block delimited with: ```
+  and separated from the others with: ---
+-->
+
+```ts
+console.log('T🔭 I’m currently working on something cool.')
+```
+
+---
+
+```ts
+console.log('🔭 I’m currently working on something cool.')
+console.log('🌱 I’m currently learning Everything I like.')
+```
+
+---
+
+```ts
+console.log('🔭 I’m currently working on something cool.')
+console.log('🌱 I’m currently learning Everything I like.')
+console.log('💬 Ask me about anything related to Java.')
+```
+
+---
+
+```ts
+console.log('🔭 I’m currently working on something cool.')
+console.log('🌱 I’m currently learning Everything I like.')
+console.log('💬 Ask me about anything related to Java.')
+console.log('📫 How to reach me: 9385999@gmail.com')
+```
+
+
 ### 🧰 语言工具
 
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a><a href="https://apple.com" target="_blank"> <img src="https://raw.githubusercontent.com/eryajf/tu/main/img/image_20221012_094215.png" alt="macbookpro" width="43" height="43"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://www.markdownguide.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/> </a><a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a><a href="https://www.vim.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/> </a><a href="https://github.com/golang/go" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a><a href="https://cn.vuejs.org/index.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/> </a> <a href="https://groovy-lang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="Groovy" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
