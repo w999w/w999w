@@ -11,56 +11,6 @@
 - 📫 How to reach me: 9385999@gmail.com
 
 
----
-background: 4923
-animatedBackground: true
-watermark: true
-zooming: true
-highlightTheme: github-dark
-font: JetBrainsMono
----
-
-<!--
-  ☝️ The section at the top contains settings for the snippet.
-  You can change them either manually, or with the selectors
-  above the video preview.
--->
-
-<!-- A snippet is a plain Markdown file! -->
-
-<!--
-  Each step of the animation is a code block delimited with: ```
-  and separated from the others with: ---
--->
-
-```ts
-console.log('T🔭 I’m currently working on something cool.')
-```
-
----
-
-```ts
-console.log('🔭 I’m currently working on something cool.')
-console.log('🌱 I’m currently learning Everything I like.')
-```
-
----
-
-```ts
-console.log('🔭 I’m currently working on something cool.')
-console.log('🌱 I’m currently learning Everything I like.')
-console.log('💬 Ask me about anything related to Java.')
-```
-
----
-
-```ts
-console.log('🔭 I’m currently working on something cool.')
-console.log('🌱 I’m currently learning Everything I like.')
-console.log('💬 Ask me about anything related to Java.')
-console.log('📫 How to reach me: 9385999@gmail.com')
-```
-
 
 ### 🧰 语言工具
 
